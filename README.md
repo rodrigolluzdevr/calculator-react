@@ -18,11 +18,11 @@ Trabalhar com o JSX e entender como é a funcionalidade | integração com as te
 
 # Como Rodar o Projeto:
 
-* Primeiro passo, clone o projeto em sua maquina
-* Abra a pasta do projeto no terminal
-* Instale as dependências com o comando `npm i` 
-* Inicie o servidor com o comando `npm start` , uma nova aba ira se abrir no navegador, caso não ocorra
-* Abre uma aba no navegar e navegue para localhost:3000
+-- Primeiro passo, clone o projeto em sua maquina
+-- Abra a pasta do projeto no terminal
+-- Instale as dependências com o comando `npm i` 
+-- Inicie o servidor com o comando `npm start` , uma nova aba ira se abrir no navegador, caso não ocorra
+-- Abre uma aba no navegar e navegue para localhost:3000
 
 ##
 
